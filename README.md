@@ -1,2 +1,0 @@
-# John
-setting up git
